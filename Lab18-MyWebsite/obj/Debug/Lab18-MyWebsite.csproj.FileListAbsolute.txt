@@ -1,0 +1,9 @@
+c:\users\owner\source\repos\Lab18-MyWebsite\Lab18-MyWebsite\bin\Lab18-MyWebsite.dll.config
+c:\users\owner\source\repos\Lab18-MyWebsite\Lab18-MyWebsite\bin\Lab18-MyWebsite.dll
+c:\users\owner\source\repos\Lab18-MyWebsite\Lab18-MyWebsite\bin\Lab18-MyWebsite.pdb
+c:\users\owner\source\repos\Lab18-MyWebsite\Lab18-MyWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\owner\source\repos\Lab18-MyWebsite\Lab18-MyWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\owner\source\repos\Lab18-MyWebsite\Lab18-MyWebsite\obj\Debug\Lab18-MyWebsite.csprojResolveAssemblyReference.cache
+c:\users\owner\source\repos\Lab18-MyWebsite\Lab18-MyWebsite\obj\Debug\Lab18-MyWebsite.csproj.CoreCompileInputs.cache
+c:\users\owner\source\repos\Lab18-MyWebsite\Lab18-MyWebsite\obj\Debug\Lab18-MyWebsite.dll
+c:\users\owner\source\repos\Lab18-MyWebsite\Lab18-MyWebsite\obj\Debug\Lab18-MyWebsite.pdb
